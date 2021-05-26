@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="476fbbf2-5939-4346-aefc-3298d9e5b562" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ninjap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe/ninjap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/SnellRoundhand.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ninjap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ninjap.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ninjap/version.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ninjap.gemspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/ninjap_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1t5N9wuHeTSnyjkfwIIWG0tH128" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Ruby.ninjap">
+    <configuration name="ninjap" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ninjap" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lib" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lib/ninjap.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="-p &quot;Milorad Gojkovic&quot; &quot;Bruce Lee&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="All tests in ninjap: ninjap" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <module name="ninjap" />
+      <predefined_log_file enabled="true" id="RUBY_TESTUNIT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-Ilib" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/{*_test,test_*,*_spec}.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Ruby.ninjap" />
+      <item itemvalue="Test::Unit/Shoulda/Minitest.All tests in ninjap: ninjap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.ninjap" />
+        <item itemvalue="Test::Unit/Shoulda/Minitest.All tests in ninjap: ninjap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="476fbbf2-5939-4346-aefc-3298d9e5b562" name="Default Changelist" comment="" />
+      <created>1622054842745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622054842745</updated>
+      <workItem from="1622054843870" duration="9847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="179" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622064493343">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state x="179" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.830@0.25.1440.830" timestamp="1622064493343" />
+    <state x="429" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622057178847">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state x="429" y="255" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.830@0.25.1440.830" timestamp="1622057178847" />
+    <state x="571" y="169" key="EnvironmentVariablesDialog" timestamp="1622063597107">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state x="571" y="169" key="EnvironmentVariablesDialog/0.25.1440.830@0.25.1440.830" timestamp="1622063597107" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1622064520420">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.25.1440.830@0.25.1440.830" timestamp="1622064520420" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1622064520419">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.25.1440.830@0.25.1440.830" timestamp="1622064520419" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1622064520418">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.25.1440.830@0.25.1440.830" timestamp="1622064520418" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1622064520419">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.25.1440.830@0.25.1440.830" timestamp="1622064520419" />
+    <state x="224" y="76" key="SettingsEditor" timestamp="1622064935950">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state x="224" y="76" key="SettingsEditor/0.25.1440.830@0.25.1440.830" timestamp="1622064935950" />
+    <state x="315" y="177" key="Vcs.Push.Dialog.v2" timestamp="1622064883166">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state x="315" y="177" key="Vcs.Push.Dialog.v2/0.25.1440.830@0.25.1440.830" timestamp="1622064883166" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ninjap@ninjap.rcov" NAME="ninjap Coverage Results" MODIFIED="1622064520378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="ninjap" />
+    <SUITE FILE_PATH="coverage/ninjap@All_tests_in_ninjap__ninjap.rcov" NAME="All tests in ninjap: ninjap Coverage Results" MODIFIED="1622063412891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ninjap" />
+  </component>
+</project>
