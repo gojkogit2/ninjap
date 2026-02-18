@@ -11,3 +11,6 @@
 .rspec_status
 .DS_Store
 *.gem
+.DS_Store
+.idea/
+*.gem
