@@ -1,10 +1,28 @@
-# Ninjap
+# Ninjap 🥷
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ninjap`. To experiment with that code, run `bin/console` for an interactive prompt.
+**Promote someone to Ninja. Instantly.**
 
-TODO: Delete this and the text above, and describe your gem
+Ninjap is a lightweight Ruby gem that generates beautiful PNG certificates to officially promote someone to Ninja status.
 
-## Installation
+It can be used:
+
+- From the command line
+- Inside Ruby applications
+- As part of web services (like https://smokyusmaximus.com)
+
+---
+
+## ✨ Features
+
+- Generate PNG certificate files
+- Clean CLI interface
+- Lightweight (MiniMagick based)
+- No heavy dependencies
+- Perfect for fun promotions, internal awards, or creative projects
+
+---
+
+## 📦 Installation
 
 Add this line to your application's Gemfile:
 
@@ -12,32 +30,117 @@ Add this line to your application's Gemfile:
 gem 'ninjap'
 ```
 
-And then execute:
+Then run:
 
-    $ bundle
+```
+bundle install
+```
 
-Or install it yourself as:
+Or install directly:
 
-    $ gem install ninjap
+```
+gem install ninjap
+```
 
-## Usage
+---
 
-TODO: Write usage instructions here
+## 🚀 Usage
 
-## Development
+### Command Line
 
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+Promote someone directly from terminal:
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+```
+ninjap -p "Great Person" "Your Name" output.png
+```
 
-## Contributing
+If no output file is provided, it will attempt to write into the current directory.
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ninjap. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Example:
 
-## License
+```
+ninjap -p "John Doe" "Gojko" /tmp/john_ninja.png
+```
 
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+---
 
-## Code of Conduct
+### Ruby Usage
 
-Everyone interacting in the Ninjap project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/ninjap/blob/master/CODE_OF_CONDUCT.md).
+You can also use it inside Ruby code:
+
+```ruby
+system("ninjap", "-p", "John Doe", "Gojko", "john.png")
+```
+
+---
+
+## 🛠 Development
+
+Clone the repository:
+
+```
+git clone https://github.com/gojkogit2/ninjap.git
+cd ninjap
+```
+
+Install dependencies:
+
+```
+bundle install
+```
+
+Run tests:
+
+```
+rake spec
+```
+
+Build the gem locally:
+
+```
+gem build ninjap.gemspec
+```
+
+---
+
+## 📤 Releasing
+
+1. Update version in `lib/ninjap/version.rb`
+2. Commit changes
+3. Tag the release:
+
+```
+git tag vX.Y.Z
+git push origin main --tags
+```
+
+4. Build and push to RubyGems:
+
+```
+gem build ninjap.gemspec
+gem push ninjap-X.Y.Z.gem
+```
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome.
+
+For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+## 💬 Project
+
+Live example using this gem:
+
+👉 https://smokyusmaximus.com/
+
+Promote wisely. 🥷
